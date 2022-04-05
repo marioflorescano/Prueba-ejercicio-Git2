@@ -1,3 +1,3 @@
  if (a=b){
-     return b
+     console.log(b);
  }
